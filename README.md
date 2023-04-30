@@ -1,9 +1,9 @@
 # data-mining
-Projects for my data mining course
+Projects for my Data Mining course.
 
 All three projects are in .ipynb files, i.e. computational notebook files.
 
-# How to run the filem?
+# How to run the files?
 
 Step 1: Please download the .ipynb file, and then open it in an environment that supports the execution of .ipynb files, viz. Jupyter Notbooks or Google Colab.
 Step 2: Place the dataset at the desired location.
