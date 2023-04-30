@@ -10,7 +10,7 @@ Step 2: Place the dataset at the desired location.
 Step 3: Execute the program cell-by-cell after making any changes as required in the dataset path.
 
 **Please note that in order to run correctly, the dataset must be placed at the exact path given in the file! So, if you're using Google Colab, you can place the file 
-at a directory with the same path as the one given in the data_dir variable in Cell 4. **
+at a directory with the same path as the one given in the data_dir variable in Cell 4.**
 
 If you're not using Google Colab, you will have to change the data_dir path to one that corresponds to where your dataset is stored.
 
